@@ -14,6 +14,7 @@ From custom threat scanners to meme-grade UI with military-grade backbone — Sp
 <hr>
 
 Optional tagline ideas:
+
 🛡️ "This. Is. Cybersecurity."
 
 ⚔️ "Built in Sparta. Runs on caffeine."
